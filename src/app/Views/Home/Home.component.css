@@ -1,0 +1,6 @@
+ .bgimg {
+  background-image: url('../../../assets/Home/background.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
